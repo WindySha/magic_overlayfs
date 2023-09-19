@@ -23,4 +23,5 @@ std::vector<std::string> SYSTEM_PARTITIONS {
         "/my_bigball", \
         "/prism", \
         "/optics", \
+        "/apex", \
         "/oem" };

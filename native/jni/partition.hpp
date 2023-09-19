@@ -7,8 +7,8 @@ std::vector<std::string> SYSTEM_PARTITIONS {
         "/odm", \
         "/vendor_dlkm", \
         "/odm_dlkm", \
-        "/my_custom", \
-        "/my_engineering", \
+        "/apex", \
+        "/apex/com.android.art", \
         "/my_heytap", \
         "/my_manifest", \
         "/my_preload", \
@@ -23,5 +23,4 @@ std::vector<std::string> SYSTEM_PARTITIONS {
         "/my_bigball", \
         "/prism", \
         "/optics", \
-        "/apex", \
         "/oem" };

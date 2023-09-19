@@ -7,7 +7,6 @@ std::vector<std::string> SYSTEM_PARTITIONS {
         "/odm", \
         "/vendor_dlkm", \
         "/odm_dlkm", \
-        "/apex", \
         "/my_heytap", \
         "/my_manifest", \
         "/my_preload", \

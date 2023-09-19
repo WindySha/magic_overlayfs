@@ -8,7 +8,6 @@ std::vector<std::string> SYSTEM_PARTITIONS {
         "/vendor_dlkm", \
         "/odm_dlkm", \
         "/apex", \
-        "/apex/com.android.art", \
         "/my_heytap", \
         "/my_manifest", \
         "/my_preload", \
